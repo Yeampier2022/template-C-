@@ -2,7 +2,7 @@ public class PromptQuestion
 {
     static string[] _prompts = {
 
-    "how do i hear the voice of the lord?",
+    "How do i hear the voice of the lord?",
     "How can I be thankful today?",
     "What did you learn today?",
     "How can I meet my goal today? ",

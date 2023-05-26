@@ -1,6 +1,6 @@
 using System;
 using System.Text;
-class Program
+class Programssd
 {
     static void Main(string[] args)
     {
