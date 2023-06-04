@@ -10,7 +10,7 @@ public class Scripture
         $"\nAnd when ye shall receive these things, I would exhort you that ye would aask God, \nthe Eternal Father, in the name of Christ, if these things are not true, \nand if ye shall ask with a csincere heart, with dreal intent, \nefaith in Christ, he will fmanifest the gtruth of it unto you, \nby the power of the Holy Ghost."
         
     };
-    private string _scripture;
+    private string _scripture; 
     private string _reference;
 
 
