@@ -1,6 +1,6 @@
 public class PromptQuestion
 {
-    static string[] _prompts = {
+    static string[] _promptsQuestion = {
 
     "How do i hear the voice of the lord?",
     "How can I be thankful today?",
@@ -14,8 +14,8 @@ public class PromptQuestion
     public string DisplayPrompt()
     {
         var randomQuestion = new Random();
-        int i = randomQuestion.Next(_prompts.Length);
-        string promptPriavte = _prompts[i];
+        int i = randomQuestion.Next(_promptsQuestion.Length);
+        string promptPriavte = _promptsQuestion[i];
         return promptPriavte;
     }
 }
